@@ -11,7 +11,9 @@ Project Name: Syneos Health Technical Exercise (Spotify Analysis Project)
 Prepared By: Payal Patel
 Date: February 22, 2020 
 Objective: Recommend a playlist using data collected via Spotify’s Web API. Additionally, share any interest insights found in the data used to create the recommended playlist. 
-Data Used: For this project, audio features and specific track features were collected using the Spotify Web API for each track found on the Spotify playlist “Billboard #1 Hits from 2000-2019” by user “Paul Mattingly”.  (https://open.spotify.com/playlist/06mZvzwge07R64LQNRGnFB) 
+
+<b>Data Used: </b>For this project, audio features and specific track features were collected using the Spotify Web API for each track found on the Spotify playlist “Billboard #1 Hits from 2000-2019” by user “Paul Mattingly”.  (https://open.spotify.com/playlist/06mZvzwge07R64LQNRGnFB) 
+
 Tools / Technology Used:
 1.	Spotify API 
 2.	Python 
