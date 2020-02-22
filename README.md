@@ -8,9 +8,13 @@
 <b>Statement of Work</b>
 
 <b>Name of Company: </b>Syneos Health
+
 <b>Project Name:</b> Syneos Health Technical Exercise (Spotify Analysis Project) 
+
 <b>Prepared By: </b>Payal Patel
+
 <b>Date:</b> February 22, 2020 
+
 <b>Objective:</b> Recommend a playlist using data collected via Spotify’s Web API. Additionally, share any interest insights found in the data used to create the recommended playlist. 
 
 <b>Data Used: </b>For this project, audio features and specific track features were collected using the Spotify Web API for each track found on the Spotify playlist “Billboard #1 Hits from 2000-2019” by user “Paul Mattingly”.  (https://open.spotify.com/playlist/06mZvzwge07R64LQNRGnFB) 
